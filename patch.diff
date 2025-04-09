@@ -1,0 +1,11 @@
+diff --git a/test-advanced.txt b/test-advanced.txt
+index 30da7f1..a88faf0 100644
+--- a/test-advanced.txt
++++ b/test-advanced.txt
+@@ -1,3 +1,3 @@
+ test
+ 
+-renewal bbbbbbbb
+\ No newline at end of file
++renewal
+\ No newline at end of file
